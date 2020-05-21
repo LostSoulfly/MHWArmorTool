@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="textBoxIdList.Text" xml:space="preserve">
+    <value>062_0000
+056_0000
+055_0000
+063_0000
+064_0000
+054_0000
+065_0000
+102_0000
+058_0000
+061_0000
+060_0000
+037_0000
+104_0010
+059_0000
+100_0000
+101_0000
+098_0000
+112_0000
+113_0000
+015_0000
+095_0000
+095_0010
+103_0000
+016_0000
+005_0000
+019_0000
+036_0000
+048_0000
+120_0000
+067_0000
+066_0000
+066_0010
+074_0000
+075_0000
+076_0000
+077_0000
+078_0000
+057_0000
+072_0000
+117_0000
+026_0000
+071_0000
+073_0000
+053_0000
+018_0000
+116_0000
+118_0000
+119_0000
+105_0000
+007_0001
+017_0001
+008_0001
+023_0001
+022_0001
+039_0001
+009_0001
+010_0001
+012_0001
+011_0001
+110_0000
+013_0001
+084_0000
+084_0010
+020_0001
+020_0011
+021_0001
+021_0011
+021_0101
+021_0111
+024_0001
+024_0101
+010_0101
+013_0101
+028_0001
+001_0000
+014_0000
+002_0000
+002_0010
+003_0000
+004_0000
+007_0000
+017_0000
+006_0000
+089_0000
+089_0010
+033_0001
+033_0011
+034_0001
+034_0011
+027_0001
+027_0011
+029_0001
+029_0011
+040_0001
+041_0001
+080_0000
+080_0010
+081_0000
+081_0010
+082_0000
+082_0010
+083_0000
+083_0010
+020_0101
+020_0111
+008_0000
+009_0000
+023_0000
+022_0000
+027_0500
+027_0510
+033_0101
+033_0111
+034_0101
+034_0111
+029_0101
+029_0111
+081_0100
+081_0110
+010_0000
+010_0010
+085_0000
+085_0010
+042_0500
+042_0510
+032_0500
+032_0510
+046_0001
+046_0011
+047_0001
+047_0011
+035_0001
+035_0011
+086_0000
+086_0010
+012_0000
+094_0000
+104_0000
+030_0500
+030_0510
+088_0000
+088_0010
+050_0500
+050_0510
+020_0000
+020_0010
+092_0000
+021_0200
+021_0210
+033_0200
+033_0210
+011_0000
+013_0000
+107_0000
+107_0010
+107_0100
+107_0110
+108_0000
+108_0010
+109_0000
+109_0010
+109_0500
+109_0510
+082_0500
+082_0510
+087_0000
+087_0010
+051_0001
+051_0011
+049_0001
+049_0011
+024_0000
+021_0000
+021_0010
+028_0000
+028_0010
+124_0000
+127_0000
+128_0000
+025_0000
+106_0000
+115_0000
+083_0100
+083_0110
+121_0000
+122_0000
+123_0000
+086_0020
+130_0000
+131_0000
+039_0000
+031_0000
+021_0100
+021_0110
+040_0000
+040_0010
+027_0000
+027_0010
+029_0000
+029_0010
+033_0000
+033_0010
+033_0100
+033_0110
+034_0000
+034_0010
+034_0100
+034_0110
+041_0000
+041_0010
+042_0000
+042_0010
+050_0000
+050_0010
+044_0000
+043_0000
+043_0010
+038_0000
+038_0010
+038_0020
+030_0000
+030_0010
+030_0020
+046_0000
+046_0010
+046_0020
+047_0000
+047_0010
+047_0020
+032_0000
+032_0010
+032_0020
+035_0000
+035_0010
+035_0020
+045_0000
+045_0010
+045_0020
+051_0000
+051_0010
+051_0020
+049_0000
+049_0010
+049_0020
+091_0000
+093_0000</value>
+  </data>
+</root>
